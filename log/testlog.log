@@ -1,0 +1,88 @@
+2021-06-17 17:14:03,977 - OutlookTest -INFO - Driver SetUp
+2021-06-17 17:14:04,009 - OutlookTest -INFO - Login Page Setup
+2021-06-17 17:16:31,952 - OutlookTest -INFO - Driver SetUp
+2021-06-17 17:16:31,994 - OutlookTest -INFO - Login Page Setup
+2021-06-17 17:16:51,158 - OutlookTest -INFO - Login Clicked
+2021-06-17 17:16:53,464 - OutlookTest -INFO - Pop-Up Closed
+2021-06-17 17:16:55,473 - OutlookTest -INFO - Title Validated
+2021-06-17 17:16:57,817 - OutlookTest -INFO - Browser Closed
+2021-06-17 17:27:19,429 - OutlookTest -INFO - Driver SetUp
+2021-06-17 17:27:19,473 - OutlookTest -INFO - Login Page Setup
+2021-06-17 17:28:17,496 - OutlookTest -INFO - Login Clicked
+2021-06-17 17:28:20,426 - OutlookTest -INFO - Pop-Up Closed
+2021-06-17 17:28:22,445 - OutlookTest -INFO - Login Title Validated
+2021-06-17 17:28:24,760 - OutlookTest -INFO - Browser Closed
+2021-06-17 17:31:15,028 - OutlookTest -INFO - Driver SetUp
+2021-06-17 17:31:15,063 - OutlookTest -INFO - Login Page Setup
+2021-06-17 17:33:17,291 - OutlookTest -INFO - Driver SetUp
+2021-06-17 17:33:17,331 - OutlookTest -INFO - Login Page Setup
+2021-06-17 17:34:09,027 - OutlookTest -INFO - Login Clicked
+2021-06-17 17:34:09,127 - OutlookTest -INFO - Pop-Up Closed
+2021-06-17 17:34:11,191 - OutlookTest -INFO - Login Title Validated
+2021-06-17 17:34:13,349 - OutlookTest -INFO - Browser Closed
+2021-06-17 17:41:50,381 - OutlookTest -INFO - Driver SetUp
+2021-06-17 17:41:50,417 - OutlookTest -INFO - Login Page Setup
+2021-06-17 17:42:38,555 - OutlookTest -INFO - Login Clicked
+2021-06-17 17:42:40,082 - OutlookTest -INFO - Pop-Up Closed
+2021-06-17 17:42:42,363 - OutlookTest -INFO - Login Title Validated
+2021-06-17 17:42:44,678 - OutlookTest -INFO - Browser Closed
+2021-06-17 17:44:39,933 - OutlookTest -INFO - Driver SetUp
+2021-06-17 17:44:39,964 - OutlookTest -INFO - Login Page Setup
+2021-06-17 17:45:28,274 - OutlookTest -INFO - Login Clicked
+2021-06-17 17:45:29,784 - OutlookTest -INFO - Pop-Up Closed
+2021-06-17 17:45:32,713 - OutlookTest -INFO - Login Title Validated
+2021-06-17 17:45:35,032 - OutlookTest -INFO - Browser Closed
+2021-06-17 17:45:56,168 - OutlookTest -INFO - Driver SetUp
+2021-06-17 17:45:56,205 - OutlookTest -INFO - Login Page Setup
+2021-06-17 17:46:41,286 - OutlookTest -INFO - Login Clicked
+2021-06-17 17:46:42,758 - OutlookTest -INFO - Pop-Up Closed
+2021-06-17 17:46:44,956 - OutlookTest -INFO - Login Title Validated
+2021-06-17 17:46:44,959 - OutlookTest -INFO - Browser Closed
+2021-06-28 14:00:00,053 - OutlookTest -INFO - Driver SetUp
+2021-06-28 14:00:00,118 - OutlookTest -INFO - Login Page Setup
+2021-06-28 14:00:42,831 - OutlookTest -INFO - Login Clicked
+2021-06-28 14:00:43,944 - OutlookTest -INFO - Pop-Up Closed
+2021-06-28 14:00:46,121 - OutlookTest -INFO - Login Title Validated
+2021-06-28 14:00:46,124 - OutlookTest -INFO - Browser Closed
+2021-06-29 13:59:12,685 - OutlookTest -INFO - Driver SetUp
+2021-06-29 13:59:12,765 - OutlookTest -INFO - Login Page Setup
+2021-06-29 13:59:16,981 - OutlookTest -INFO - Driver SetUp
+2021-06-29 13:59:17,013 - OutlookTest -INFO - Login Page Setup
+2021-06-29 13:59:58,567 - OutlookTest -INFO - Login Clicked
+2021-06-29 13:59:59,979 - OutlookTest -INFO - Pop-Up Closed
+2021-06-29 14:00:02,423 - OutlookTest -INFO - Login Title Validated
+2021-06-29 14:00:02,582 - OutlookTest -INFO - Browser Closed
+2021-06-29 14:35:55,865 - OutlookTest -INFO - Driver SetUp
+2021-06-29 14:35:56,065 - OutlookTest -INFO - Login Page Setup
+2021-06-29 14:36:52,386 - OutlookTest -INFO - Login Clicked
+2021-06-29 14:36:52,555 - OutlookTest -INFO - Pop-Up Closed
+2021-06-29 14:36:54,568 - OutlookTest -INFO - Login Title Validated
+2021-06-29 14:36:54,571 - OutlookTest -INFO - Browser Closed
+2021-06-29 22:26:52,859 - OutlookTest -INFO - Driver SetUp
+2021-06-29 22:26:52,936 - OutlookTest -INFO - Login Page Setup
+2021-06-29 22:28:08,194 - OutlookTest -INFO - Login Clicked
+2021-06-29 22:28:11,127 - OutlookTest -INFO - Pop-Up Closed
+2021-06-29 22:28:13,952 - OutlookTest -INFO - Login Title Validated
+2021-06-29 22:28:13,954 - OutlookTest -INFO - Browser Closed
+2021-06-30 14:26:16,332 - OutlookTest -INFO - Driver SetUp
+2021-06-30 14:26:16,621 - OutlookTest -INFO - Login Page Setup
+2021-06-30 14:27:20,706 - OutlookTest -INFO - Login Clicked
+2021-06-30 14:27:22,979 - OutlookTest -INFO - Pop-Up Closed
+2021-06-30 14:27:25,079 - OutlookTest -INFO - Login Title Validated
+2021-06-30 14:27:25,083 - OutlookTest -INFO - Browser Closed
+2021-07-01 13:47:26,553 - OutlookTest -INFO - Driver SetUp
+2021-07-01 13:47:26,645 - OutlookTest -INFO - Login Page Setup
+2021-07-01 13:48:37,323 - OutlookTest -INFO - Login Clicked
+2021-07-01 13:48:51,092 - OutlookTest -INFO - Driver SetUp
+2021-07-01 13:48:51,123 - OutlookTest -INFO - Login Page Setup
+2021-07-01 13:49:12,658 - OutlookTest -INFO - Browser Closed
+2021-07-01 13:50:00,481 - OutlookTest -INFO - Login Clicked
+2021-07-01 13:50:03,455 - OutlookTest -INFO - Pop-Up Closed
+2021-07-01 13:50:05,462 - OutlookTest -INFO - Login Title Validated
+2021-07-01 13:50:05,464 - OutlookTest -INFO - Browser Closed
+2021-07-02 14:31:15,313 - OutlookTest -INFO - Driver SetUp
+2021-07-02 14:31:15,396 - OutlookTest -INFO - Login Page Setup
+2021-07-02 14:33:19,204 - OutlookTest -INFO - Login Clicked
+2021-07-02 14:33:21,053 - OutlookTest -INFO - Pop-Up Closed
+2021-07-02 14:33:23,154 - OutlookTest -INFO - Login Title Validated
+2021-07-02 14:33:23,157 - OutlookTest -INFO - Browser Closed
