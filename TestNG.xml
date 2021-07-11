@@ -3,12 +3,17 @@
 <suite name="Suite">
   
  <!--This is a different case -->
+ <listeners>
+  
+  <listener class-name="qa.java.ExtentReportsUtility.com.extentReport"></listener>
+  
+  </listeners>
  
-  <test name="Parrallel method"> 
+ 
+  <test name="test"> 
    <classes>
   
-   <class name="toBeDeleted.testClass"/>
-   <class name="toBeDeleted.testClass1"/>
+   <class name="xapQATest.xapLoginPageTest"></class>
  
   </classes>
   </test>  

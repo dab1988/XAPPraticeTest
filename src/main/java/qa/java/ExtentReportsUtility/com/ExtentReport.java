@@ -16,12 +16,11 @@ import com.aventstack.extentreports.reporter.configuration.Theme;
 
 import qa.java.commonUtil.com.screenShotLibrary;
 
-public class ExtentReport extends TestListenerAdapter 
+public class extentReport extends TestListenerAdapter 
 {
 	public ExtentHtmlReporter htmlReporter;
 	public ExtentReports extent;
 	public ExtentTest logger;
-	WebDriver driver=WebDriverClassUtil.initializaion();
 	
 	public void onStart(ITestContext ctr)
 	{
@@ -50,7 +49,7 @@ public class ExtentReport extends TestListenerAdapter
 	
 	public void onTestFailure(ITestResult result)
 	{
-		String ScreenshotPath=screenShotLibrary.captureScreenShot(driver, result);
+		String ScreenshotPath=screenShotLibrary.captureScreenShot(WebDriverClassUtil.initializaion(), result);
 		logger = extent.createTest(result.getName());
 		logger.log(Status.FAIL, MarkupHelper.createLabel(result.getName() + " - Test Case Failed", ExtentColor.RED)); 
 		try {

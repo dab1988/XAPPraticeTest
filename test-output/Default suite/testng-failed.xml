@@ -3,13 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="OutLookandGmail.OutlookTest">
+      <class name="xapQATest.xapLoginPageTest">
         <methods>
-          <include name="logOut"/>
+          <include name="checkWelcomeText"/>
           <include name="setUp"/>
-          <include name="kill"/>
         </methods>
-      </class> <!-- OutLookandGmail.OutlookTest -->
+      </class> <!-- xapQATest.xapLoginPageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
