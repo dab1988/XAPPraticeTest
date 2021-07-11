@@ -3,11 +3,7 @@
 <suite name="Suite">
   
  <!--This is a different case -->
- <listeners>
-  
-  <listener class-name="qa.java.ExtentReportsUtility.com.extentReport"></listener>
-  
-  </listeners>
+
  
  
   <test name="test"> 
