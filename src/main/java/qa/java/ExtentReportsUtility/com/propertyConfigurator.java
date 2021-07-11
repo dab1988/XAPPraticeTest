@@ -16,47 +16,31 @@ public class propertyConfigurator
     
     public static Properties pro=null;
     
-    
+    public propertyConfigurator() throws Exception
+    {
+    	if(file == null & fis==null || pro==null)
+        {
+        	
+         file= new File(fileName);
+         fis= new FileInputStream(file);
+         pro= new Properties();
+        }
+    	pro.load(fis);
+    }
     
     public static String readUrl() throws Exception
-    {
-    	
-    if(file == null & fis==null || pro==null)
-    {
-    	
-     file= new File(fileName);
-     fis= new FileInputStream(file);
-     pro= new Properties();
-    }
-       pro.load(fis);
+    {      
      return pro.getProperty("url");
     }
     
     public static String readUserName() throws Exception
     {
     	
-    if(file == null & fis==null || pro==null)
-    {
-    	
-     file= new File(fileName);
-     fis= new FileInputStream(file);
-     pro= new Properties();
-    }
-       pro.load(fis);
-     return pro.getProperty("uname");
+      return pro.getProperty("uname");
     }
 
     public static String password() throws Exception
     {
-    	
-    if(file == null & fis==null || pro==null)
-    {
-    	
-     file= new File(fileName);
-     fis= new FileInputStream(file);
-     pro= new Properties();
-    }
-       pro.load(fis);
      return pro.getProperty("password");
     }
     

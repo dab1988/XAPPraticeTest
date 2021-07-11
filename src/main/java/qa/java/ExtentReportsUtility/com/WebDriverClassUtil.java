@@ -8,8 +8,14 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 
-public class WebDriverClassUtil 
+public class WebDriverClassUtil extends propertyConfigurator
 {
+	public WebDriverClassUtil() throws Exception {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+
 	public static Logger log=null;
    // public static EventFiringWebDriver driver1=null;
 	public static WebDriver driver;

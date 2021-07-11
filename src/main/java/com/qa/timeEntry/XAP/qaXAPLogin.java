@@ -26,8 +26,9 @@ public class qaXAPLogin extends WebDriverClassUtil
    static WebElement loginButton;
    
    
-    public qaXAPLogin()
+    public qaXAPLogin() throws Exception
     {
+    	super();
     	PageFactory.initElements(driver, this);
     }
    
