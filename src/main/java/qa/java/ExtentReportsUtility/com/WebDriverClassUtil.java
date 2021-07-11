@@ -35,7 +35,7 @@ public class WebDriverClassUtil extends propertyConfigurator
 			EventFiringWebDriver eventDriver= new EventFiringWebDriver(driver);
 			WebDriverListner listner= new WebDriverListner();
 			eventDriver.register(listner);
-			driver.get(propertyConfigurator.readUrl());
+			eventDriver.get(propertyConfigurator.readUrl());
 			//return driver;
 		}
 		

@@ -7,7 +7,6 @@
         <methods>
           <include name="checkWelcomeText"/>
           <include name="close"/>
-          <include name="checkTitle"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- xapQATest.xapLoginPageTest -->

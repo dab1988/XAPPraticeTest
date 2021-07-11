@@ -40,7 +40,7 @@ public class qaXAPLogin extends WebDriverClassUtil
     
     public static String validatetextWelcome()
     {
-    	return driver.findElement(By.xpath("//span[@class='form-title']")).getText();
+    	return driver.findElement(By.xpath("//span[text()='Welcome.']")).getText();
     }
     
     public static XAPHomePage loginXap() throws Exception

@@ -25,7 +25,7 @@ public class xapLoginPageTest extends WebDriverClassUtil
 		
 		WebDriverClassUtil.driverInitializaion();
 		qa= new qaXAPLogin();
-		qaXAPLogin.loginXap();
+		//qaXAPLogin.loginXap();
 	}
 	
 	@Test (priority=2)
