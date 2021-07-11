@@ -7,7 +7,12 @@ public class javaScriptExecutorUtil extends WebDriverClassUtil
 {
 
 	
-   public static void clickButton(WebElement button)
+   public javaScriptExecutorUtil() throws Exception {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+public static void clickButton(WebElement button)
    {
 	  JavascriptExecutor js= (JavascriptExecutor)driver;
 	   

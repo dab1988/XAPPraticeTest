@@ -1,11 +1,7 @@
-OutLookandGmail\OutLookLogin.class
 qa\java\ExtentReportsUtility\com\WebDriverClassUtil.class
 com\qa\timeEntry\XAP\qaXAPLogin.class
 com\qa\timeEntry\XAP\XAPHomePage.class
 qa\java\ExtentReportsUtility\com\propertyConfigurator.class
 OutLookandGmail\GMailLogin.class
 Log4J_ConfigFile_utility\logClass.class
-qa\java\ExtentReportsUtility\com\javaScriptExecutorUtil.class
-qa\java\commonUtil\com\screenShotLibrary.class
 qa\java\ExtentReportsUtility\com\WebDriverListner.class
-qa\java\ExtentReportsUtility\com\extentReport.class

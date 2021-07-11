@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: TestSuite
--------------------------------------------------------------------------------
-Tests run: 4, Failures: 1, Errors: 0, Skipped: 3, Time elapsed: 12.21 s <<< FAILURE! - in TestSuite
-xapQATest.xapLoginPageTest.setUp  Time elapsed: 11.657 s  <<< FAILURE!
-java.lang.NullPointerException
-	at xapQATest.xapLoginPageTest.setUp(xapLoginPageTest.java:20)
-
